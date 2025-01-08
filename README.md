@@ -29,12 +29,4 @@ SEO-friendly features including schema markup and metadata handling.
 A plugin for managing dynamic testimonials and user reviews.
 Integration with Google Maps and third-party APIs for enhanced functionality.
 Skills Used: PHP, WordPress, JavaScript, HTML, CSS, SEO Best Practices.
- 
 
-## 📈 *GitHub Stats*
-![Ahsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanHabib&show_icons=true&theme=radical)
-
-## 📫 *Contact Me*
-- *Website:* [cforcode.odoo.com](#)  
-- *Email:* coderahsan3.0@gmail.com  
-- *LinkedIn:* [(https://bd.linkedin.com/in/ahsan-habib-hamim)](#)  
